@@ -4,7 +4,6 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    
 }
 
 div.head{
@@ -51,15 +50,10 @@ button{
     background-color: transparent;
     margin-left:920px;
     margin-bottom:-10px;
-
 }
-
-
 div.first{
  height: 45px;
  margin:20px ;
-
-
 }
 a.one{
     text-decoration: none;
@@ -67,21 +61,16 @@ a.one{
     background-color: rgba(230, 220, 220, 0.205);
     border: 2px solid rgba(255, 255, 255, 0.178);
     padding:9px;
-
 }
 a.one:active{
     color: rgb(106, 167, 16)rgb(106, 167, 16);
 
 }
 div .first{
-    margin-left: 515px;
-    
+    margin-left: 515px;   
 }
 div.form{
  margin-left:250px ;
-
-    
-
 }
 select,input{
     /* margin: 2px; */
@@ -89,17 +78,12 @@ select,input{
     border-radius:7px ;
     border:1px solid green ;
 }
-select,input:hover{
+select:hover , input:hover{
 
     border:1px solid rgb(96, 138, 255) ;
 }
-
-
-
-
 label{
     color: #1890ff;
-    
 }
 #submit{
     
